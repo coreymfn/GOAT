@@ -14,6 +14,6 @@ body{margin: 0; padding: 20px; min-height: 100vh;background: linear-gradient(180
 .table-header{background-color :#dc143c; color: white;border: 2px solid #d4af37; padding: 12px}
 .table-cell{border: 2px solid #111111; padding: 12px; background-color:white;border:2px solid #d4af37;}
 .table-row:nth-child(even) .table-cell{background-color:#f0f0f0}
-
+.video-title{color:rgb(158, 12, 41);text-shadow: 2px 2px 5px rgba(212,175,55,0.5); border-bottom: 3px solid #D4AF37; padding-bottom: 5px; margin-top: 35px;background-color:#d4af37;}
 
 
